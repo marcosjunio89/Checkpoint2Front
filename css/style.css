@@ -6,6 +6,10 @@
     --dark: #000000;
 }
 
+.branco {
+    color: white;
+}
+
 .back-to-top {
     position: fixed;
     display: none;
