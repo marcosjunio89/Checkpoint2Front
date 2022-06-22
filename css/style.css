@@ -96,6 +96,12 @@
     top: -100px;
     transition: .5s;
 }
+.parallax{
+    background-image: url(../img/barbie-filme-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
 
 @media (max-width: 991.98px) {
     .navbar .navbar-nav .nav-link,
