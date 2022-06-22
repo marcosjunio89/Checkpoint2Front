@@ -103,6 +103,20 @@
     background-attachment: fixed;
 }
 
+.parallax-borboleta {
+    background-image: url(../img/efeitoborboletabanner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.parallax-drestranho {
+    background-image: url(../img/Doutor-Estranho-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;   
+}
+
 @media (max-width: 991.98px) {
     .navbar .navbar-nav .nav-link,
     .navbar.shadow-sm .navbar-nav .nav-link {
