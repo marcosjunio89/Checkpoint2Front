@@ -96,11 +96,15 @@
     top: -100px;
     transition: .5s;
 }
-.parallax{
+.parallax-barbie{
     background-image: url(../img/barbie-filme-2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+}
+
+.parallax-tartaruga{
+    background-image: url(../img/tartaruga-ninja-filme.jpg);
 }
 
 .parallax-borboleta {
