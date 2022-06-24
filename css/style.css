@@ -168,6 +168,7 @@
 
 .parallax-peakyblinders{
     background-image: url(../img/Peaky.jpg);
+    background-image: url('https://raw.githubusercontent.com/marcosjunio89/Checkpoint2Front/main/img/peaky.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
