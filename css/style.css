@@ -126,15 +126,27 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    background-position-y: -100px;
+    background-position-y: 0px;
+    background-position-x: center;
+    background-size: 78%;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .parallax-peakyblinders{
-    background-image: url(../img/peaky.jpg);
+    background-image: url(../img/Peaky.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    background-position-y: -150px;
+    background-position-y: 0px;
+    background-position-x: center;
+    background-size: 78%;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 @media (max-width: 991.98px) {
