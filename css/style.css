@@ -121,6 +121,22 @@
     background-attachment: fixed;   
 }
 
+.parallax-eternos{
+    background-image: url(../img/parallax.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position-y: -100px;
+}
+
+.parallax-peakyblinders{
+    background-image: url(../img/peaky.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position-y: -150px;
+}
+
 @media (max-width: 991.98px) {
     .navbar .navbar-nav .nav-link,
     .navbar.shadow-sm .navbar-nav .nav-link {
