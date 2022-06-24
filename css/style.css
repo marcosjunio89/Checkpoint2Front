@@ -101,10 +101,27 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    background-position-y: 0px;
+    background-position-x: center;
+    background-size: 78%;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .parallax-tartaruga{
     background-image: url(../img/tartaruga-ninja-filme.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position-y: 0px;
+    background-position-x: center;
+    background-size: 78%;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .parallax-borboleta {
@@ -112,13 +129,27 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    background-position-y: 0px;
+    background-position-x: center;
+    background-size: 78%;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .parallax-drestranho {
     background-image: url(../img/Doutor-Estranho-2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: fixed;   
+    background-attachment: fixed;
+    background-position-y: 200px;
+    background-position-x: center;
+    background-size: 78%;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;   
 }
 
 .parallax-eternos{
