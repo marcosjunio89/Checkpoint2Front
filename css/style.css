@@ -251,6 +251,15 @@
         height: 100%;
         object-fit: cover;
     }
+
+    .parallax-peakyblinders {
+        height: auto;
+        background-position-y: 20px;
+    }
+}
+
+@media (max-width: 425px) {
+    
 }
 
 .page-header {
