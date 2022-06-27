@@ -259,7 +259,10 @@
 }
 
 @media (max-width: 425px) {
-    
+    .parallax-peakyblinders {
+        height: auto;
+        background-position-y: 60px;
+    }
 }
 
 .page-header {
