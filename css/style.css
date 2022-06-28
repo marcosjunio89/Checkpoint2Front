@@ -265,6 +265,26 @@
         height: max-content;
         background-position-y: 25px;
     }
+
+    .parallax-borboleta{
+        height: max-content;
+        background-position-y: 15px;
+    }
+
+    .parallax-drestranho {
+        height: max-content;
+        background-position-y: 15px;
+    }
+
+    .parallax-barbie {
+        height: max-content;
+        background-position-y: 70px;
+    }
+
+    .parallax-tartaruga {
+        height: max-content;
+        background-position-y: 70px;
+    }
 }
 
 @media (max-width: 425px) {
@@ -277,8 +297,36 @@
         height: max-content;
         background-position-y: 60px;
     }
+
+    .parallax-borboleta {
+        height: max-content;
+        background-position-y: 60px;
+    }
+
+    .parallax-drestranho {
+        height: max-content;
+        background-position-y: 60px;
+    }
+
+    .parallax-barbie {
+        height: max-content;    
+        background-position-y: 60px;    
+}
+    .parallax-tartaruga {
+        height: max-content;
+        background-position-y: 120px;
+}
 }
 
+
+.parallax-barbie {
+    height: max-content;
+    background-position-y: 70px;
+}
+.parallax-tartaruga {
+    height: max-content;
+    background-position-y: 70px;
+}
 .page-header {
     background: linear-gradient(rgba(0, 0, 0, .85), rgba(0, 0, 0, .85));
     background-size: cover;
