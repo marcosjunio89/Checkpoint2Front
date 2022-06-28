@@ -181,6 +181,10 @@
     justify-content: center;
 }
 
+.right {
+    text-align: right;
+}
+
 @media (max-width: 991.98px) {
     .navbar .navbar-nav .nav-link,
     .navbar.shadow-sm .navbar-nav .nav-link {
